@@ -1,7 +1,7 @@
 
 # TATAR
 
-Yerli ve AI güvenli sohbet uygulaması
+"Yerli ve Güvenli" Siber güvenlik paketi ve yapay zeka içeren bir messenger uygulaması"
 
 
 
@@ -19,7 +19,7 @@ Yerli ve AI güvenli sohbet uygulaması
 
 [Yaren AI (Yapay Zeka Sesli ve Yazılı Sohbet Botu)]()
 
-[Image Generator]()
+[Image Generator]
 
 
 
