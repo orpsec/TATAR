@@ -19,7 +19,8 @@
 
 [Yaren AI (Yapay Zeka Sesli ve Yazılı Sohbet Botu)]()
 
-[Image Generator]
+[Image Generator]()
+
 
 
 
